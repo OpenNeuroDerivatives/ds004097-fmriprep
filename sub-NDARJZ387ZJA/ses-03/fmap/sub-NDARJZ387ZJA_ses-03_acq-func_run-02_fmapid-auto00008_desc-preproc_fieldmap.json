@@ -1,0 +1,27 @@
+{
+  "AnatomicalReference": "sub-NDARJZ387ZJA_ses-03_acq-func_run-02_fmapid-auto00008_desc-epi_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-NDARJZ387ZJA_ses-03_acq-func_run-02_fmapid-auto00008_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00008",
+  "IntendedFor": [
+    "ses-03/anat/sub-NDARJZ387ZJA_ses-03_T1w.nii.gz",
+    "ses-03/anat/sub-NDARJZ387ZJA_ses-03_T2w.nii.gz",
+    "ses-03/func/sub-NDARJZ387ZJA_ses-03_task-MID_run-01_bold.nii.gz",
+    "ses-03/func/sub-NDARJZ387ZJA_ses-03_task-MID_run-02_bold.nii.gz",
+    "ses-03/func/sub-NDARJZ387ZJA_ses-03_task-SST_run-01_bold.nii.gz",
+    "ses-03/func/sub-NDARJZ387ZJA_ses-03_task-SST_run-02_bold.nii.gz",
+    "ses-03/func/sub-NDARJZ387ZJA_ses-03_task-nback_run-01_bold.nii.gz",
+    "ses-03/func/sub-NDARJZ387ZJA_ses-03_task-nback_run-02_bold.nii.gz",
+    "ses-03/func/sub-NDARJZ387ZJA_ses-03_task-rest_run-01_bold.nii.gz",
+    "ses-03/func/sub-NDARJZ387ZJA_ses-03_task-rest_run-02_bold.nii.gz",
+    "ses-03/func/sub-NDARJZ387ZJA_ses-03_task-rest_run-03_bold.nii.gz",
+    "ses-03/func/sub-NDARJZ387ZJA_ses-03_task-rest_run-04_bold.nii.gz",
+    "ses-03/func/sub-NDARJZ387ZJA_ses-03_task-rest_run-05_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004097-fmriprep/sourcedata/raw/sub-NDARJZ387ZJA/ses-03/fmap/sub-NDARJZ387ZJA_ses-03_acq-func_dir-AP_run-02_epi.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004097-fmriprep/sourcedata/raw/sub-NDARJZ387ZJA/ses-03/fmap/sub-NDARJZ387ZJA_ses-03_acq-func_dir-PA_run-02_epi.nii.gz"
+  ],
+  "Units": "Hz"
+}

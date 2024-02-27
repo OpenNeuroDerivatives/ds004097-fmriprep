@@ -1,0 +1,10 @@
+{
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004097-fmriprep/sourcedata/raw/sub-NDARJZ387ZJA/ses-01/anat/sub-NDARJZ387ZJA_ses-01_T1w.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004097-fmriprep/sourcedata/raw/sub-NDARJZ387ZJA/ses-02/anat/sub-NDARJZ387ZJA_ses-02_T1w.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004097-fmriprep/sourcedata/raw/sub-NDARJZ387ZJA/ses-03/anat/sub-NDARJZ387ZJA_ses-03_T1w.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004097-fmriprep/sourcedata/raw/sub-NDARJZ387ZJA/ses-04/anat/sub-NDARJZ387ZJA_ses-04_T1w.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004097-fmriprep/sourcedata/raw/sub-NDARJZ387ZJA/ses-05/anat/sub-NDARJZ387ZJA_ses-05_T1w.nii.gz"
+  ],
+  "Type": "ROI"
+}
